@@ -1,12 +1,15 @@
-<span > <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&width=435&lines=Hello+Github+!" alt="Typing SVG" /> <span >
-
-- 👋 Hi, I’m @a-programmer-cat, a boy from Malaysia who love programming!
+### 👋 Hi there!  
+I AM
+#### SAMUEL KONG👨‍💻,  
+a boy from Malaysia who love programming.
+#
 - 👀 I’m interested in <span > <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" /> <span >
 - 🌱 I’m currently learning <span > <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff" /> <span >
+- 🛠 Tools I always use:  
+<span > <img src="https://img.shields.io/badge/Programming Tools-Visual Studio Code-blue?link=https%3A%2F%2Fcode.visualstudio.com%2F" /> <span >  
 
-
-Ever since I was a kid👦, I wanted to be a programmer👨‍💻. 
-My wish was to head to an IT giant like Google or Microsoft for employment❗❗❗
+Ever since I was a kid👦, I wanted to be a programmer👨‍💻.   
+My wish was to head to an IT giant like Google or Microsoft for employment！！！
 
 
 
