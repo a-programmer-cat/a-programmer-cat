@@ -3,22 +3,18 @@
  A boy from Malaysia who love programming.
 # About Me:
 Ever since I was a kid👦, I wanted to be a programmer👨‍💻.   
-My wish was to head to an IT giant like Google or Microsoft for employment！！！
+My wish was to head to an IT giant like Google or Microsoft for employment！！！  
+### My Learning Journey
+| Age | Learning Language |   
+| ---- | ---- |  
+| 10 | Python <span > <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" /> <span > |  
+| 12 | C++ <span > <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff" /> <span > |
 
-## 1.Languages
-<span > <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" /> <span >
-~~~
-print("Hello World!")
-~~~
-
-## 2.Learning
-<span > <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff" /> <span >
-
-## 3.Development Environment
+### My Development Environment
 <span > <img src="https://img.shields.io/badge/Visual Studio Code-blue" /> <span >
 <span > <img src="https://img.shields.io/badge/Windows 10-white" /> <span >
 
-## 4.Visitor count  
+## Visitor count  
 ![](https://profile-counter.glitch.me/a-programmer-cat/count.svg)  
 I hope more people will see my page~~~
 
