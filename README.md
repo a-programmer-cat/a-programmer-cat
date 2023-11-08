@@ -18,6 +18,8 @@ My wish was to head to an IT giant like Google or Microsoft for employment！！
 ![](https://profile-counter.glitch.me/a-programmer-cat/count.svg)  
 I hope more people will see my page~~~
 
+![](https://raw.githubusercontent.com/a-programmer-cat/a-programmer-cat/main/assets/github-contribution-grid-snake.svg)
+
 # My Information:  
 [![a-programmer-cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-programmer-cat)](https://github.com/anuraghazra/github-readme-stats)
 
