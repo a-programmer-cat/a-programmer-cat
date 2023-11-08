@@ -27,4 +27,4 @@ I hope more people will see my page~~~
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-programmer-cat)](https://git.io/streak-stats)
 
-![](https://raw.githubusercontent.com/a-programmer-cat/a-programmer-cat/main/assets/github-contribution-grid-snake.svg)              
+          
