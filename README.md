@@ -24,7 +24,7 @@ I hope more people will see my page~~~
 
 [![a-programmer-cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-programmer-cat&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-programmer-cat&theme=github_dark)](https://git.io/streak-stats)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=a-programmer-cat)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=a-programmer-cat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 
 
 
